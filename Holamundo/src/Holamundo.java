@@ -6,6 +6,8 @@ public class Holamundo {
         int suma = a + b;
         System.out.println("Hola "+ nombre+ "!");
         System.out.println("La suma de "+ a +" + " + b + " es :"+ suma  );
+        int multi = a * b;
+        System.out.println("La multiplicacion de "+ a+ " * "+b+" es :"+multi);
     }
     
 }
