@@ -8,6 +8,7 @@ public class Holamundo {
         System.out.println("La suma de "+ a +" + " + b + " es :"+ suma  );
         int multi = a * b;
         System.out.println("La multiplicacion de "+ a+ " * "+b+" es :"+multi);
+        System.out.println("Mi nombre es Henry David Lopez Sanchez y mi numero de carnet es 2025-2379U");
     }
     
 }
